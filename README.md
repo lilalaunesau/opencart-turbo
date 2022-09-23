@@ -1,11 +1,11 @@
 Opencart Turbo
 ==============
 
-Version: 0.1
+Version: 0.1.2
 
-Developed by Atomix
+Redevelop by Benie Vison
 
-http://www.atomix.com.au
+https://g.dev/benieivison
 
 
 This script will apply several changes to boost the performance of OpenCart, including:
@@ -13,6 +13,7 @@ This script will apply several changes to boost the performance of OpenCart, inc
 *   DONE: Add indexes to all foreign keys
 *   TODO: Delete Script Function
 *   TODO: Replace config.php and admin/config.php with dynamic Git-friendly version
+*   TODO: Fix any issue of image gallery in old and new themes
 
 
 1.  This script should be deleted immediately following use
